@@ -13,15 +13,18 @@
   <a href="https://www.linkedin.com/in/shariyar-shaikh/">LinkedIn</a>
 </p>
 
-Secure by design. Built for people.
-I'm Shariyar, a London-based Senior Software Engineer with 9+ years of experience building enterprise SaaS platforms, distributed systems and Identity & Access Management solutions.
+## Secure by design. Built for people.
 
-At Spotler Group, I work on authentication, Single Sign-On, identity federation and integrations across products. My work spans Java and Spring Boot, C#/.NET, Node.js and NestJS, alongside React, Next.js and TypeScript.
+I'm **Shariyar**, a London-based **Senior Software Engineer with 9+ years of experience** building enterprise SaaS platforms, distributed systems and Identity & Access Management solutions.
+
+At **Spotler Group**, I work on authentication, Single Sign-On, identity federation and integrations across products. My work spans **Java and Spring Boot, C#/.NET, Node.js and NestJS**, alongside **React, Next.js and TypeScript**.
 
 I enjoy connecting the pieces: secure identity, reliable APIs, thoughtful interfaces and the infrastructure that keeps them running.
-Most of my professional work lives in private repositories. The highlights below describe my engineering experience without sharing proprietary code.
 
-Selected work
+> Most of my professional work lives in private repositories. The highlights below describe my engineering experience without sharing proprietary code.
+
+## Selected work
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -53,33 +56,38 @@ Selected work
 </tr>
 </table>
 
-Toolkit
+## Toolkit
+
 A practical toolkit across identity, product development and production delivery.
-Area	Technologies and practices
-Identity & security	Keycloak, OAuth 2.0, OpenID Connect, SAML, SSO, MFA, RBAC, identity federation, user provisioning, session management
-Languages & backend	Java, Spring Boot, C#, .NET, JavaScript, TypeScript, Node.js, NestJS, REST APIs, microservices
-Frontend	React, Next.js, Redux, Zustand, Tailwind CSS, HTML, CSS
-Cloud & delivery	AWS, Azure, Docker, Kubernetes, TeamCity, GitHub Actions, CI/CD
-Data & observability	SQL Server, MariaDB, MongoDB, Entity Framework, OpenObserve, SQL tuning, memory profiling
-Engineering quality	Cypress, authentication testing, SOLID principles, event-driven workflows, production troubleshooting
 
+| Area | Technologies and practices |
+| :--- | :--- |
+| **Identity & security** | Keycloak, OAuth 2.0, OpenID Connect, SAML, SSO, MFA, RBAC, identity federation, user provisioning, session management |
+| **Languages & backend** | Java, Spring Boot, C#, .NET, JavaScript, TypeScript, Node.js, NestJS, REST APIs, microservices |
+| **Frontend** | React, Next.js, Redux, Zustand, Tailwind CSS, HTML, CSS |
+| **Cloud & delivery** | AWS, Azure, Docker, Kubernetes, TeamCity, GitHub Actions, CI/CD |
+| **Data & observability** | SQL Server, MariaDB, MongoDB, Entity Framework, OpenObserve, SQL tuning, memory profiling |
+| **Engineering quality** | Cypress, authentication testing, SOLID principles, event-driven workflows, production troubleshooting |
 
-Experience
-Role	Company	Period
-Senior Software Engineer	Spotler Group	May 2022 - Present
-Full Stack Engineer	Kickdynamic	Nov 2020 - Apr 2022
-Senior Software Engineer	Zensar Technologies	Mar 2019 - Feb 2020
-Software Engineer	Resemble Systems	Aug 2016 - Feb 2019
+## Experience
 
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| **Senior Software Engineer** | Spotler Group | May 2022 - Present |
+| **Full Stack Engineer** | Kickdynamic | Nov 2020 - Apr 2022 |
+| **Senior Software Engineer** | Zensar Technologies | Mar 2019 - Feb 2020 |
+| **Software Engineer** | Resemble Systems | Aug 2016 - Feb 2019 |
 
 <details>
 <summary><strong>Education & certification</strong></summary>
 
-- Master of Computer Applications - Acharya Institute of Technology, Bangalore
-- Bachelor of Computer Applications - Goa University
-- Microsoft Exam 70-486 - Developing ASP.NET MVC Web Applications
+- **Master of Computer Applications** - Acharya Institute of Technology, Bangalore
+- **Bachelor of Computer Applications** - Goa University
+- **Microsoft Exam 70-486** - Developing ASP.NET MVC Web Applications
+
 </details>
 
+<br>
 
 <a href="https://www.linkedin.com/in/shariyar-shaikh/">
   <img src="./assets/connect.png" width="100%" alt="Let's connect on LinkedIn - Shariyar Shaikh">
