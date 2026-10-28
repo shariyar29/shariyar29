@@ -1,146 +1,90 @@
-# Hi there, I'm Shariyar! 👋
+<!-- Profile README for shariyar29. Upload README.md and assets/ together. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/identity-header.png">
+    <img src="./assets/identity-header.gif" width="100%" alt="Shariyar Shaikh - Senior Software Engineer. Identity, APIs and full-stack engineering. London, UK. 9+ years of experience.">
+  </picture>
+</p>
 
-### Senior Software Engineer | Identity & Access Management | Full Stack Engineering
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#experience">Experience</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/shariyar-shaikh/">LinkedIn</a>
+</p>
 
-**Building secure, scalable, and intelligent software solutions.**
+Secure by design. Built for people.
+I'm Shariyar, a London-based Senior Software Engineer with 9+ years of experience building enterprise SaaS platforms, distributed systems and Identity & Access Management solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariyar-shaikh/)
-![Location](https://img.shields.io/badge/Location-London%2C%20UK-333333?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-9%2B%20Years-007ACC?style=for-the-badge)
+At Spotler Group, I work on authentication, Single Sign-On, identity federation and integrations across products. My work spans Java and Spring Boot, C#/.NET, Node.js and NestJS, alongside React, Next.js and TypeScript.
 
----
+I enjoy connecting the pieces: secure identity, reliable APIs, thoughtful interfaces and the infrastructure that keeps them running.
+Most of my professional work lives in private repositories. The highlights below describe my engineering experience without sharing proprietary code.
 
-## 👨‍💻 About Me
+Selected work
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/project-identity.png" width="100%" alt="Enterprise SSO - identity engineering">
+<p>Centralised authentication and identity management across SaaS products, with custom Keycloak extensions and organisation-aware identity provider brokering.</p>
+<p><strong>My work:</strong> Java SPIs, authentication flows, SAML integrations, self-registration, provisioning and platform upgrades.</p>
+<p><code>Keycloak</code> <code>Java</code> <code>OAuth 2.0</code> <code>OIDC</code> <code>SAML</code></p>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/project-workspace.png" width="100%" alt="Lawyers Workspace - full-stack product engineering">
+<p>A business-management platform I built from scratch, bringing together secure workspaces, dashboards, billing and integrations.</p>
+<p><strong>My work:</strong> Authentication and RBAC, PDF invoices, email outbox, audit actions, Google/Outlook calendar integration, Docker deployment and a Windows installer.</p>
+<p><code>Full stack</code> <code>RBAC</code> <code>Billing</code> <code>Integrations</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/project-migrations.png" width="100%" alt="Platform Migrations - distributed systems">
+<p>Fault-tolerant data migration and transformation services to move customers from legacy platforms while maintaining service continuity.</p>
+<p><strong>My work:</strong> REST-based ingestion, data mapping, recurring scheduling and synchronisation without direct access to the source database.</p>
+<p><code>Node.js</code> <code>REST APIs</code> <code>Data transformation</code></p>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/project-ai.png" width="100%" alt="AI-Enabled Products - AI integration and performance">
+<p>AI-powered capabilities in a React-based email editor, paired with performance work to improve the editing experience.</p>
+<p><strong>My work:</strong> AI integration, intelligent layout features, memory profiling and investigation of rendering bottlenecks.</p>
+<p><code>React</code> <code>AI integration</code> <code>Performance</code></p>
+</td>
+</tr>
+</table>
 
-I'm a **Senior Software Engineer with 9+ years of experience** designing, developing, and scaling enterprise SaaS applications, distributed systems, and Identity & Access Management solutions.
-
-Currently working at **Spotler Group**, focusing on enterprise authentication, Single Sign-On, identity federation, and secure application integrations.
-
-My expertise spans backend architecture, modern frontend development, cloud-native engineering, and security.
-
-- 🔐 Specialising in **IAM, SSO, OAuth 2.0, OpenID Connect, SAML and Keycloak**
-- ⚙️ Building scalable backend services using **Java, Spring Boot, C#, .NET, Node.js and NestJS**
-- 💻 Developing modern applications using **React, Next.js and TypeScript**
-- ☁️ Working with **AWS, Azure, Docker, Kubernetes and CI/CD**
-- 🤖 Exploring **AI-powered development tools and integrations**
-- 🎯 Interested in **Security Architecture, IAM and Distributed Systems**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-### Backend & API Development
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Identity & Security
-
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge)
-![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge)
-![SAML](https://img.shields.io/badge/SAML-0052CC?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-
-**Additional expertise:** RBAC, identity federation, MFA, user provisioning, session management, authentication flows, API security.
-
-### Cloud, DevOps & Databases
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🚀 Engineering Highlights
-
-### 🔐 Enterprise Identity & SSO Platform
-
-Designed and implemented enterprise identity solutions using Keycloak, Java, OAuth 2.0, OIDC and SAML.
-
-- Centralised authentication and Single Sign-On across multiple SaaS products
-- Custom Keycloak SPIs, authentication flows and REST APIs
-- Organisation-aware identity provider brokering and SAML integrations
-- Automated user provisioning and deprovisioning
-- Secure self-registration and enterprise onboarding
-- Keycloak upgrades, authentication troubleshooting and platform observability
-
-### ⚙️ SaaS Migration & Distributed Systems
-
-- Built fault-tolerant data migration and transformation services using Node.js
-- Designed REST-based integrations between legacy and modern platforms
-- Developed recurring job scheduling and synchronisation services
-- Supported large-scale platform migrations while maintaining service continuity
-
-### 🤖 AI-Powered Applications
-
-- Integrated AI capabilities into enterprise SaaS applications
-- Contributed to AI-enhanced React-based content editing experiences
-- Optimised application performance through memory profiling and bottleneck analysis
-
-### 💻 Full Stack Product Engineering
-
-- Developed secure administrative portals and enterprise applications
-- Built APIs and user interfaces with .NET, Node.js, React and TypeScript
-- Worked on real-time MarTech platforms, retail systems and financial applications
-- Applied SOLID principles, maintainable architecture and performance optimisation
-
----
-
-## 💼 Professional Journey
-
-| Company | Role | Period |
-|---|---|---|
-| Spotler Group | Senior Software Engineer | 2022 – Present |
-| Kickdynamic | Full Stack Engineer | 2020 – 2022 |
-| Zensar Technologies | Senior Software Engineer | 2019 – 2020 |
-| Resemble Systems | Software Engineer | 2016 – 2019 |
-
----
-
-## 📊 GitHub Activity
+Toolkit
+A practical toolkit across identity, product development and production delivery.
+Area	Technologies and practices
+Identity & security	Keycloak, OAuth 2.0, OpenID Connect, SAML, SSO, MFA, RBAC, identity federation, user provisioning, session management
+Languages & backend	Java, Spring Boot, C#, .NET, JavaScript, TypeScript, Node.js, NestJS, REST APIs, microservices
+Frontend	React, Next.js, Redux, Zustand, Tailwind CSS, HTML, CSS
+Cloud & delivery	AWS, Azure, Docker, Kubernetes, TeamCity, GitHub Actions, CI/CD
+Data & observability	SQL Server, MariaDB, MongoDB, Entity Framework, OpenObserve, SQL tuning, memory profiling
+Engineering quality	Cypress, authentication testing, SOLID principles, event-driven workflows, production troubleshooting
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shariyar29&show_icons=true&theme=tokyonight&hide_border=true)
+Experience
+Role	Company	Period
+Senior Software Engineer	Spotler Group	May 2022 - Present
+Full Stack Engineer	Kickdynamic	Nov 2020 - Apr 2022
+Senior Software Engineer	Zensar Technologies	Mar 2019 - Feb 2020
+Software Engineer	Resemble Systems	Aug 2016 - Feb 2019
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shariyar29&layout=compact&theme=tokyonight&hide_border=true)
 
----
+<details>
+<summary><strong>Education & certification</strong></summary>
 
-## 🎓 Education & Certifications
+- Master of Computer Applications - Acharya Institute of Technology, Bangalore
+- Bachelor of Computer Applications - Goa University
+- Microsoft Exam 70-486 - Developing ASP.NET MVC Web Applications
+</details>
 
-- 🎓 Master of Computer Applications — Acharya Institute of Technology
-- 🎓 Bachelor of Computer Applications — Goa University
-- 🏅 Microsoft Certified: Developing ASP.NET MVC Web Applications (Exam 70-486)
 
----
+<a href="https://www.linkedin.com/in/shariyar-shaikh/">
+  <img src="./assets/connect.png" width="100%" alt="Let's connect on LinkedIn - Shariyar Shaikh">
+</a>
 
-## 🤝 Let's Connect
-
-I'm interested in connecting with engineers and teams working on **Identity & Access Management, Security Architecture, Cloud Platforms and Full Stack Engineering**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shariyar_Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariyar-shaikh/)
-
-*Building reliable systems. Solving complex problems. Always learning.*
+<p align="center">
+  Interested in <strong>IAM, security architecture, distributed systems and full-stack engineering.</strong>
+</p>
