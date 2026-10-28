@@ -122,7 +122,6 @@ Designed and implemented enterprise identity solutions using Keycloak, Java, OAu
 
 ## 📊 GitHub Activity
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shariyar29&show_icons=true&theme=tokyonight&hide_border=true)
 
